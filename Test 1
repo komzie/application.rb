@@ -18,4 +18,6 @@ create  app/controllers/pages_controller.rb
       create      app/assets/stylesheets/pages.css.scss
 user_1@codelearn:~/your_site$
 
+test
+
 
